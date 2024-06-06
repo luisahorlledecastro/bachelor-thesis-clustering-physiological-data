@@ -1,1 +1,5 @@
 /.idea/.name
+/data/.Rhistory
+/docs/.ipynb_checkpoints/
+__pycache__
+.*/
