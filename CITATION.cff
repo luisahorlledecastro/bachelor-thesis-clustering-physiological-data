@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Finding Patterns in Variability: Clustering Skin Conductance Responses to Identify Psychopathological Patterns
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Luísa
+    family-names: Hörlle de Castro
+    email: hoerlledecastro@uni-potsdam.de / luisa@iservport.com
+license: MIT
+version: 1.0.0
+date-released: '2024-09-13'

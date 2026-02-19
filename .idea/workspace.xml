@@ -4,35 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd8e548e-1523-4ce1-b477-8532f4f756ea" name="Changes" comment="added results kmeans and gmm">
-      <change afterPath="$PROJECT_DIR$/.idea/BachelorarbeitProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dbscan_between.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/gmm_between.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/k_means.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/k_means_transpose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/k_means_within.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/kmeans_old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/kmeans_within_meeting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/kmeans_within_new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/prep/behave.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/prep/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/prep/scr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/prep/scr_old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/psych_data_between.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/research.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/heatmapC1_0506.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/heatmapC2_0506.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/heatmap_average_0506.png" afterDir="false" />
+    <list default="true" id="dd8e548e-1523-4ce1-b477-8532f4f756ea" name="Changes" comment="updated git ignore">
+      <change afterPath="$PROJECT_DIR$/bin/compare_clusters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/elbow_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/kmeans_model_psych.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/prep/prep_physiological.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/prep/prep_psychological.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/data_prep_subdef.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/data_prep_subdef.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/initial_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/docs/initial_eda.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/between_subject_analysis_old.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/between_subject_analysis_old.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SCR_Single_corr_prep_all.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/scr_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/scr_subdef.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/psychopathological_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dbscan_between.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/gmm_between.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/initial_eda.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/k_means.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/k_means_transpose.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/k_means_within.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/kmeans_old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/kmeans_within_meeting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/kmeans_within_new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/outdated/between_subject_analysis_old.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/outdated/data_prep_subdef.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/prep/behave.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/prep/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/prep/psych.py" beforeDir="false" afterPath="$PROJECT_DIR$/CITATION.cff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/prep/scr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/prep/scr_old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/psych_data_between.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/psych_data_between_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/research.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scr_clusters_psych.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kmeans_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/heatmapC1_0506.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/heatmapC2_0506.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/heatmap_average_0506.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,48 +67,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.behave.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_prep_subdef.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dbscan_between.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dbscan_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gmm_between.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hierarchical_complete_linkage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hierarchical_single_linkage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.k_means.executor&quot;: &quot;Run&quot;,
-    &quot;Python.k_means_within.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kmeans_old.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kmeans_within_new.executor&quot;: &quot;Run&quot;,
-    &quot;Python.models.executor&quot;: &quot;Run&quot;,
-    &quot;Python.psych_data_between.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scr_corr_tests.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowExcelReader.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/luisahorlledecastro/UNI/Bachelorarbeit/BachelorarbeitProject/docs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.behave.executor": "Run",
+    "Python.compare_clusters.executor": "Run",
+    "Python.compare_old_new.executor": "Run",
+    "Python.data_prep_subdef.executor": "Run",
+    "Python.dbscan_between.executor": "Run",
+    "Python.dbscan_test.executor": "Run",
+    "Python.elbow_method.executor": "Run",
+    "Python.gmm_between.executor": "Run",
+    "Python.hierarchical_complete_linkage.executor": "Run",
+    "Python.hierarchical_single_linkage.executor": "Run",
+    "Python.k_means.executor": "Run",
+    "Python.k_means_within.executor": "Run",
+    "Python.kmeans_model.executor": "Run",
+    "Python.kmeans_model_psych.executor": "Run",
+    "Python.kmeans_old.executor": "Run",
+    "Python.kmeans_within_new.executor": "Run",
+    "Python.models.executor": "Run",
+    "Python.prep_physiological.executor": "Run",
+    "Python.prep_psychological.executor": "Run",
+    "Python.psych.executor": "Run",
+    "Python.psych_data_between.executor": "Run",
+    "Python.psych_data_between_new.executor": "Run",
+    "Python.scr.executor": "Run",
+    "Python.scr_clusters_psych.executor": "Run",
+    "Python.scr_corr_tests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowExcelReader.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/luisahorlledecastro/UNI/Bachelorarbeit/BachelorarbeitProject/docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bin/plots" />
+      <recent name="$PROJECT_DIR$/docs/outdated" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/results" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.psych_data_between">
-    <configuration name="gmm_between" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.compare_clusters">
+    <configuration name="compare_clusters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BachelorarbeitProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/gmm_between.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/compare_clusters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="k_means" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="elbow_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BachelorarbeitProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,12 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/k_means.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/elbow_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kmeans_old" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kmeans_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BachelorarbeitProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/kmeans_old.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/kmeans_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kmeans_within_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kmeans_model_psych" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BachelorarbeitProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,12 +199,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/kmeans_within_new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/kmeans_model_psych.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="psych_data_between" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prep_psychological" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BachelorarbeitProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,12 +222,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/prep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docs/psych_data_between.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/prep/prep_psychological.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,19 +238,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.psych_data_between" />
-        <item itemvalue="Python.kmeans_old" />
-        <item itemvalue="Python.gmm_between" />
-        <item itemvalue="Python.k_means" />
-        <item itemvalue="Python.kmeans_within_new" />
+        <item itemvalue="Python.compare_clusters" />
+        <item itemvalue="Python.kmeans_model_psych" />
+        <item itemvalue="Python.elbow_method" />
+        <item itemvalue="Python.kmeans_model" />
+        <item itemvalue="Python.prep_psychological" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -253,7 +271,19 @@
       <workItem from="1717314607037" duration="3909000" />
       <workItem from="1717333648518" duration="1013000" />
       <workItem from="1717335517337" duration="12614000" />
-      <workItem from="1717577984230" duration="24651000" />
+      <workItem from="1717577984230" duration="30499000" />
+      <workItem from="1717746770495" duration="11741000" />
+      <workItem from="1718187051264" duration="4872000" />
+      <workItem from="1718195269854" duration="1577000" />
+      <workItem from="1718205147206" duration="16598000" />
+      <workItem from="1718862903024" duration="35000" />
+      <workItem from="1719159425183" duration="176000" />
+      <workItem from="1719159606682" duration="90000" />
+      <workItem from="1719160370434" duration="689000" />
+      <workItem from="1719300421150" duration="4219000" />
+      <workItem from="1720363445988" duration="662000" />
+      <workItem from="1726189735965" duration="118000" />
+      <workItem from="1726190501872" duration="9675000" />
     </task>
     <task id="LOCAL-00001" summary="added initial_eda file">
       <option name="closed" value="true" />
@@ -295,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717602601900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated git ignore">
+      <option name="closed" value="true" />
+      <created>1717665968064</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717665968064</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,23 +356,34 @@
     <MESSAGE value="added gitignore" />
     <MESSAGE value="added data prep subdef file" />
     <MESSAGE value="added results kmeans and gmm" />
-    <option name="LAST_COMMIT_MESSAGE" value="added results kmeans and gmm" />
+    <MESSAGE value="updated git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated git ignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BachelorarbeitProject$k_means.coverage" NAME="k_means Coverage Results" MODIFIED="1717591806581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$compare_clusters.coverage" NAME="compare_clusters Coverage Results" MODIFIED="1726240234290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$psych.coverage" NAME="psych Coverage Results" MODIFIED="1718266040897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/prep" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$scr_corr_tests.coverage" NAME="scr_corr_tests Coverage Results" MODIFIED="1714733252036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$data_prep_subdef.coverage" NAME="data_prep_subdef Coverage Results" MODIFIED="1714727733078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$dbscan_test.coverage" NAME="dbscan_test Coverage Results" MODIFIED="1717333741055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
-    <SUITE FILE_PATH="coverage/BachelorarbeitProject$kmeans_old.coverage" NAME="kmeans_old Coverage Results" MODIFIED="1717663818514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$kmeans_model.coverage" NAME="kmeans_model Coverage Results" MODIFIED="1726227874021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$kmeans_old.coverage" NAME="kmeans_old Coverage Results" MODIFIED="1719159616471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$models.coverage" NAME="models Coverage Results" MODIFIED="1715849904807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/prep" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$psych_data_between_new.coverage" NAME="psych_data_between_new Coverage Results" MODIFIED="1719159660343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$behave.coverage" NAME="behave Coverage Results" MODIFIED="1715682728033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/prep" />
-    <SUITE FILE_PATH="coverage/BachelorarbeitProject$scr.coverage" NAME="scr Coverage Results" MODIFIED="1715851272167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/prep" />
-    <SUITE FILE_PATH="coverage/BachelorarbeitProject$psych_data_between.coverage" NAME="psych_data_between Coverage Results" MODIFIED="1717664754267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$psych_data_between.coverage" NAME="psych_data_between Coverage Results" MODIFIED="1717673335763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$hierarchical_complete_linkage.coverage" NAME="hierarchical_complete_linkage Coverage Results" MODIFIED="1717402508228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
-    <SUITE FILE_PATH="coverage/BachelorarbeitProject$kmeans_within_new.coverage" NAME="kmeans_within_new Coverage Results" MODIFIED="1717582356656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
-    <SUITE FILE_PATH="coverage/BachelorarbeitProject$gmm_between.coverage" NAME="gmm_between Coverage Results" MODIFIED="1717611250430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$dbscan_between.coverage" NAME="dbscan_between Coverage Results" MODIFIED="1717328673715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$k_means_within.coverage" NAME="k_means_within Coverage Results" MODIFIED="1717344991612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$scr_clusters_psych.coverage" NAME="scr_clusters_psych Coverage Results" MODIFIED="1719159681615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$k_means.coverage" NAME="k_means Coverage Results" MODIFIED="1717591806581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$prep_physiological.coverage" NAME="prep_physiological Coverage Results" MODIFIED="1726227066036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin/prep" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$kmeans_model_psych.coverage" NAME="kmeans_model_psych Coverage Results" MODIFIED="1726227995703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$scr.coverage" NAME="scr Coverage Results" MODIFIED="1715851272167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs/prep" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$compare_old_new.coverage" NAME="compare_old_new Coverage Results" MODIFIED="1726190572942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$kmeans_within_new.coverage" NAME="kmeans_within_new Coverage Results" MODIFIED="1717582356656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$prep_psychological.coverage" NAME="prep_psychological Coverage Results" MODIFIED="1726227365696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin/prep" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$gmm_between.coverage" NAME="gmm_between Coverage Results" MODIFIED="1717611250430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
     <SUITE FILE_PATH="coverage/BachelorarbeitProject$hierarchical_single_linkage.coverage" NAME="hierarchical_complete_linkage Coverage Results" MODIFIED="1717334637627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docs" />
+    <SUITE FILE_PATH="coverage/BachelorarbeitProject$elbow_method.coverage" NAME="elbow_method Coverage Results" MODIFIED="1726227943548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
   </component>
 </project>

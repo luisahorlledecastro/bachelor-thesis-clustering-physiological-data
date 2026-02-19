@@ -1,5 +1,12 @@
 /.idea/.name
 /data/.Rhistory
-/docs/.ipynb_checkpoints/
+/docs_old/.ipynb_checkpoints/
 __pycache__
 .*/
+data
+/data
+*/__pycache__
+*/*/__pycache__
+.idea/workspace.xml
+.DS_Store
+data/*
