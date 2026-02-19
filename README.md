@@ -50,6 +50,11 @@ The `data` folder contains several CSV files:
 - `scr_data.csv`: Contains skin conductance response (SCR) data.
 - `psychopathological_data.csv`: Contains psychological data relevant to the study.
 
+## Data Ownership and Publication
+
+The data used in this project is not owned by me.
+For that reason, I do not have the rights to publish or redistribute the dataset.
+
 ## Dependencies
 
 You can install the required dependencies by running:
